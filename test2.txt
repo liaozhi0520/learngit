@@ -1,2 +1,3 @@
 this is a file named "test2".
 liaozhi is a handsome boy.
+liaozhi is attracted .
